@@ -11,11 +11,11 @@ Fundamentos de Engenharia de Software: Arquitetura e boas práticas.
 Sistemas Operacionais: Primeiros passos com Linux e Windows Server.
 
  🎯 Metas para 2026
- Dominar Scripting: Aprender Python e Bash para automação de tarefas.
-Redes de Computadores: Entender a fundo os protocolos TCP/IP, DNS, DHCP e roteamento.
-Laboratórios Práticos: Criar ambientes virtuais (Home Labs) para testes de redes e segurança.
-Certificações: Iniciar os estudos para certificações base (como CompTIA Security+ ou Linux Essentials).
-Projetos de Portfólio: Documentar ferramentas de monitoramento e auditoria de segurança.
+* Dominar Scripting: Aprender Python e Bash para automação de tarefas.
+* Redes de Computadores: Entender a fundo os protocolos TCP/IP, DNS, DHCP e roteamento.
+* Laboratórios Práticos: Criar ambientes virtuais (Home Labs) para testes de redes e segurança.
+* Certificações: Iniciar os estudos para certificações base (como CompTIA Security+ ou Linux Essentials).
+* Projetos de Portfólio: Documentar ferramentas de monitoramento e auditoria de segurança.
 
 🛠️ Conjunto de Tecnologias
 
