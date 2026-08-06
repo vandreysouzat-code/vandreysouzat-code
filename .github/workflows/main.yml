@@ -1,0 +1,29 @@
+git --version
+git config --global user.name "Victor Andrey"
+git config --global user.email "victor@example.com"
+
+git init
+git status
+git add .
+git commit -m "Initial commit"
+
+git branch
+git checkout -b feature/login
+git status
+
+git log --oneline
+git diff
+
+git remote -v
+git fetch
+git pull origin main
+git push origin main
+
+git stash
+git stash pop
+
+git merge feature/login
+git tag v1.0.0
+
+git reflog
+git show HEAD
