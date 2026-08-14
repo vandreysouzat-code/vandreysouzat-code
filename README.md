@@ -1,44 +1,45 @@
-# Olá, eu sou Victor Andrey 👋
+# 👋 Hello, I'm Victor Andrey
 
-Bem-vindo(a) ao meu GitHub! Sou estudante de Engenharia de Software e estou direcionando minha carreira para as áreas de Infraestrutura de TI e Cibersegurança. 
+🎓 Software Engineering Student | 🐧 Kali Linux | 🛡️ Ethical Hacking | ☁️ Cloud Computing
 
-Atualmente, estou construindo uma base sólida em administração de sistemas, redes e segurança da informação, documentando todo o meu progresso por meio de laboratórios, projetos e aprendizado contínuo.
+I'm a **Software Engineering student** building my knowledge from the fundamentals, with a strong focus on **Kali Linux, Ethical Hacking, Pentesting, and Cybersecurity**.
 
-# 📚 Fundamentos Atuais
-Lógica de Programação & Scripting: Automação básica.
-Git & GitHub: Controle de versão para infraestrutura como código.
-Fundamentos de Engenharia de Software: Arquitetura e boas práticas.
-Sistemas Operacionais: Primeiros passos com Linux e Windows Server.
+I'm currently learning through hands-on practice, labs, studies, and documentation. My goal is to understand how systems, networks, and applications work, how vulnerabilities can be identified, and how security can be improved in authorized environments.
 
- 🎯 Metas para 2026
-* Dominar Scripting: Aprender Python e Bash para automação de tarefas.
-* Redes de Computadores: Entender a fundo os protocolos TCP/IP, DNS, DHCP e roteamento.
-* Laboratórios Práticos: Criar ambientes virtuais (Home Labs) para testes de redes e segurança.
-* Certificações: Iniciar os estudos para certificações base (como CompTIA Security+ ou Linux Essentials).
-* Projetos de Portfólio: Documentar ferramentas de monitoramento e auditoria de segurança.
+## 🛡️ Main Focus
 
-🛠️ Conjunto de Tecnologias
+* 🐧 Kali Linux
+* 🔐 Ethical Hacking
+* ⚔️ Pentesting & Offensive Security
+* 🌐 Networking
+* 🐧 Linux
+* ☁️ Cloud Computing
 
-Estudando e Praticando:
-* Linux (Ubuntu/Debian)
+## 📚 Currently Learning
+
+* Linux & Kali Linux
+* Networking fundamentals
+* Ethical Hacking
+* Pentesting methodologies
+* Python fundamentals
 * Git & GitHub
-* Lógica de Programação
-* Redes e Protocolos
+* Web security
+* Basic Cloud Computing
 
-Planejando Aprender:
-* Python (Automação)
-* Bash Scripting
-* Ferramentas de Segurança (Wireshark, Nmap)
-* Docker & Virtualização
-* Firewalls e VPNs
+## 🚀 My Journey
 
- 🌱 Sobre a minha jornada
-Estou no início da minha trajetória em Infra e Cyber, mas totalmente comprometido em aprender todos os dias. Acredito que a segurança e a estabilidade de um sistema começam na base da infraestrutura. Consistência, disciplina e curiosidade são as chaves para me tornar um especialista na área.
+I'm still at the beginning of my journey in technology, and I'm using GitHub to **document what I learn, practice what I study, and build real projects**.
 
-📫 Conecte-se comigo
-* 💼 *LinkedIn*: linkedin.com/in/vandrey/
-* 📧 *E-mail*: vandrey.souzat@gmail.com
+I believe that becoming good at cybersecurity is not about memorizing commands — it's about **understanding how things work, practicing consistently, and solving problems**.
 
----
+## 🎯 Goals
 
-> "Sistemas seguros não nascem prontos — eles são construídos e protegidos por meio de monitoramento, aprendizado e prática constantes." 🛡️🚀
+* Build a strong foundation in cybersecurity
+* Become proficient with Kali Linux
+* Develop practical Ethical Hacking skills
+* Improve my networking knowledge
+* Learn more about Cloud Computing
+* Build practical security projects and labs
+* Create a strong professional portfolio
+
+> **Learning from the fundamentals, practicing every day, and building my way into cybersecurity.** 🔐
