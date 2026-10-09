@@ -1,12 +1,6 @@
 # Hello, I'm Victor Andrey 👋
 ### 🎓 Software Engineering Student | 🐧 Kali Linux | 🛡️ Ethical Hacking | ☁️ Cloud Computing
 
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
 
 I'm a Software Engineering student building my knowledge from the fundamentals, with a strong focus on Kali Linux, Ethical Hacking, Pentesting, and Cybersecurity.
 
