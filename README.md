@@ -2,7 +2,7 @@
 ### 🎓 Systems Analysis and Development Student | 🐧 Kali Linux | 🛡️ Ethical Hacking | ☁️ Cloud Computing
 
 
-I'm a Software Engineering student building my knowledge from the fundamentals, with a strong focus on Kali Linux, Ethical Hacking, Pentesting, and Cybersecurity.
+I'm a Systems Analysis and Development student building my knowledge from the fundamentals, with a strong focus on Kali Linux, Ethical Hacking, Pentesting, and Cybersecurity.
 
 I'm currently learning through hands-on practice, labs, studies, and documentation. My goal is to understand how systems, networks, and applications work, how vulnerabilities can be identified, and how security can be improved in authorized environments.
 
