@@ -1,3 +1,4 @@
+````markdown
 <!-- ═══════════════ DARK CYBERSECURITY PROFILE ═══════════════ -->
 
 <div align="center">
@@ -9,12 +10,12 @@
 <br/>
 
 <a href="https://github.com/vandreysouzat-code">
-  <img src="https://img.shields.io/badge/GITHUB-030507?style=for-the-badge&logo=github&logoColor=35F5A1"/>
+  <img src="https://img.shields.io/badge/GITHUB-030507?style=for-the-badge&logo=github&logoColor=35F5A1" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/vandrey/">
-  <img src="https://img.shields.io/badge/LINKEDIN-030507?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-030507?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=vandreysouzat-code&style=for-the-badge&color=064E3B&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/FOCUS-ADS%20%7C%20CYBERSECURITY-064E3B?style=for-the-badge" alt="Focus: ADS and Cybersecurity"/>
 
 </div>
 
@@ -53,10 +54,10 @@ I use GitHub to document what I learn, build practical applications and turn con
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PYTHON-LEARNING-071B14?style=flat-square&logo=python&logoColor=35F5A1"/>
-<img src="https://img.shields.io/badge/LINUX-LAB-071B14?style=flat-square&logo=linux&logoColor=35F5A1"/>
-<img src="https://img.shields.io/badge/SYSTEMS%20DEVELOPMENT-ADS-071B14?style=flat-square&logo=github&logoColor=35F5A1"/>
-<img src="https://img.shields.io/badge/CYBERSECURITY-FOUNDATIONS-071B14?style=flat-square&logo=kalilinux&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/PYTHON-LEARNING-071B14?style=flat-square&logo=python&logoColor=35F5A1" alt="Python"/>
+<img src="https://img.shields.io/badge/LINUX-LAB-071B14?style=flat-square&logo=linux&logoColor=35F5A1" alt="Linux"/>
+<img src="https://img.shields.io/badge/SYSTEMS%20DEVELOPMENT-ADS-071B14?style=flat-square&logo=github&logoColor=35F5A1" alt="Systems Development"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-FOUNDATIONS-071B14?style=flat-square&logo=kalilinux&logoColor=00D9FF" alt="Cybersecurity"/>
 
 </div>
 
@@ -85,7 +86,7 @@ Website monitoring project focused on availability, response time and SSL certif
 - Web dashboard
 
 <a href="https://github.com/vandreysouzat-code/cloud-security-monitor">
-  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-0B1712?style=for-the-badge&logo=github&logoColor=35F5A1"/>
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-0B1712?style=for-the-badge&logo=github&logoColor=35F5A1" alt="Open Cloud Security Monitor"/>
 </a>
 
 </td>
@@ -102,7 +103,7 @@ A practical learning journal for Linux, networking and cybersecurity fundamental
 - Authorized lab exercises
 
 <a href="https://github.com/vandreysouzat-code/cyber-Journey-pentest">
-  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-0B1712?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-0B1712?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Open Cyber Journey Pentest"/>
 </a>
 
 </td>
@@ -160,3 +161,4 @@ mission = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:071B14,100:030507&height=100&section=footer"/>
 
 </div>
+````
