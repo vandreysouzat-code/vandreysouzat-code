@@ -1,4 +1,3 @@
-````markdown
 <!-- ═══════════════ DARK CYBERSECURITY PROFILE ═══════════════ -->
 
 <div align="center">
