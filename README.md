@@ -212,4 +212,4 @@ mission = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A86B,55:071A12,100:030507&height=120&section=footer" width="100%" alt="Dark green footer"/>
 
 </div>
-```
+
