@@ -1,227 +1,155 @@
-
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Victor Andrey — Cybersecurity Noir Banner"/>
+# V I C T O R   A N D R E Y
 
-<br/>
+`SOFTWARE DEVELOPMENT` · `CYBERSECURITY` · `RED TEAM`
 
-# VICTOR ANDREY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### SOFTWARE DEVELOPMENT · CYBERSECURITY · RED TEAM
+**THINK IN SILENCE. BUILD WITH PURPOSE.**
 
-**LEARN. BUILD. TEST. EVOLVE.**
+*Every system has a story. Learn how it works.*
 
-[ GITHUB ](https://github.com/vandreysouzat-code) · [ LINKEDIN ](https://www.linkedin.com/in/vandrey/)
-
-<br/>
-
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-111111?style=for-the-badge&labelColor=000000&color=333333"/>
-<img src="https://img.shields.io/badge/INTEREST-RED_TEAM-111111?style=for-the-badge&labelColor=000000&color=333333"/>
-<img src="https://img.shields.io/badge/LEARNING-CLOUD_SECURITY-111111?style=for-the-badge&labelColor=000000&color=333333"/>
+[GitHub](https://github.com/vandreysouzat-code) · [LinkedIn](https://www.linkedin.com/in/vandrey/)
 
 </div>
 
 ---
 
-# `01 // WHOAMI`
+## `01 — IDENTITY`
 
-```bash
-victor@github:~$ whoami
-
-Victor Andrey
-
-victor@github:~$ cat profile.txt
-
-EDUCATION : Systems Analysis and Development (ADS)
-FOCUS     : Software Development and Cybersecurity
-INTERESTS : Ethical Hacking, Red Team and Cloud Security
-LEARNING  : Python, Linux, Networking and Cloud Computing
-MISSION   : Learn. Build. Test. Evolve.
+```text
+USER       : VICTOR ANDREY
+EDUCATION  : SYSTEMS ANALYSIS AND DEVELOPMENT
+FOCUS      : SOFTWARE DEVELOPMENT
+INTERESTS  : CYBERSECURITY / ETHICAL HACKING
+EXPLORING  : RED TEAM / CLOUD SECURITY
+ENVIRONMENT: LINUX / PYTHON / NETWORKING
+STATUS     : LEARNING BY BUILDING
 ```
 
-I'm a Systems Analysis and Development student building my career in technology through hands-on projects, experimentation, and continuous learning.
+I'm a Systems Analysis and Development student building my technical skills through hands-on projects, experimentation, and continuous learning.
 
-My interests include **cybersecurity, ethical hacking, Red Team concepts, Python programming, Linux, networking, and cloud security**.
+My interests include cybersecurity, ethical hacking, Linux, Python, networking, and cloud computing. I'm focused on understanding how systems work, developing practical tools, and learning how to identify and address security issues responsibly.
 
-I enjoy understanding how systems work, building practical solutions, and exploring how technology can be tested and secured responsibly.
-
-I'm documenting my journey one project at a time, developing practical skills and building a portfolio that reflects my progress.
+I believe progress comes from curiosity, consistency, and turning theory into practice.
 
 ---
 
-# `02 // TECH STACK`
+## `02 — TECHNICAL INTERESTS`
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF)
-
-</div>
-
-### Areas of Study
-
-- Python programming and automation
-- Linux and command-line tools
-- TCP/IP, DNS, ports, and network services
-- Ethical hacking and penetration-testing fundamentals
-- Web application security
-- Website availability and SSL certificate monitoring
-- Cloud computing and cloud security
-- Software development and version control
+| AREA | FOCUS |
+|:---|:---|
+| Programming | Python fundamentals and automation |
+| Operating Systems | Linux and Kali Linux |
+| Networking | TCP/IP, DNS, ports and services |
+| Cybersecurity | Ethical hacking and pentest fundamentals |
+| Cloud | Cloud computing and security |
+| Development | Flask, SQLite, Git and GitHub |
 
 ---
 
-# `03 // FEATURED PROJECTS`
+## `03 — FEATURED PROJECTS`
 
-Selected projects demonstrating my practical learning in software development, network security, and monitoring.
+Four projects documenting my journey through software development, monitoring, and cybersecurity.
 
----
+### `01 / TCP PORT SCANNER`
 
-## `01.` TCP PORT SCANNER
+**Python · Networking · Security Fundamentals**
 
-**PYTHON · NETWORKING · SECURITY FUNDAMENTALS**
-
-A command-line tool developed to explore TCP port scanning and basic service checks.
-
-### Key Features
+A command-line tool for scanning TCP ports and performing basic service checks.
 
 - Detects open TCP ports.
 - Supports configurable ports, timeouts, and worker threads.
-- Performs basic service identification.
-- Includes HTTP and TLS checks.
+- Includes basic service identification and HTTP/TLS checks.
 - Generates HTML, JSON, and CSV reports.
 - Includes automated tests.
 
-**Purpose:** Build practical Python skills while learning network fundamentals and service discovery.
-
-<div align="left">
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/vandreysouzat-code/tcp-port-scanner)
-
-</div>
+[ **→ EXPLORE PROJECT** ](https://github.com/vandreysouzat-code/tcp-port-scanner)
 
 ---
 
-## `02.` CLOUD SECURITY MONITOR
+### `02 / CLOUD SECURITY MONITOR`
 
-**PYTHON · FLASK · SQLITE · MONITORING**
+**Python · Flask · SQLite · Website Monitoring**
 
-A web application project focused on monitoring website availability, response times, and SSL certificate status.
+A web application focused on website availability, response times, and SSL certificate monitoring.
 
-### Key Features
+- Website status monitoring.
+- Response-time metrics.
+- SSL certificate checks.
+- Web dashboard and monitoring data.
 
-- Website availability monitoring.
-- Response-time measurements.
-- SSL certificate validity checks.
-- Web dashboard for monitoring information.
-- Storage of monitoring data.
+**Long-term goal:** Explore the evolution of this project into a monitoring platform with SaaS potential.
 
-**Long-term vision:** Evolve the project into a monitoring and security platform with potential SaaS capabilities.
-
-<div align="left">
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/vandreysouzat-code/cloud-security-monitor)
-
-</div>
+[ **→ EXPLORE PROJECT** ](https://github.com/vandreysouzat-code/cloud-security-monitor)
 
 ---
 
-## `03.` SIDI CLOUD MONITOR
+### `03 / SIDI CLOUD MONITOR`
 
-**CLOUD · MONITORING · SOFTWARE DEVELOPMENT**
+**Cloud · Monitoring · Software Development**
 
-A cloud-monitoring-related project in my portfolio, reflecting my interest in monitoring solutions and cloud technology.
+A project in my portfolio related to cloud monitoring and software solutions.
 
-This repository represents part of my ongoing exploration of software and cloud-based solutions.
+Visit the repository to explore its source code and current implementation.
 
-<div align="left">
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/vandreysouzat-code/sidi-cloud-monitor)
-
-</div>
+[ **→ EXPLORE PROJECT** ](https://github.com/vandreysouzat-code/sidi-cloud-monitor)
 
 ---
 
-## `04.` CYBER JOURNEY PENTEST
+### `04 / CYBER JOURNEY PENTEST`
 
-**KALI LINUX · NETWORKING · ETHICAL HACKING**
+**Linux · Networking · Ethical Hacking**
 
-A cybersecurity learning repository documenting commands, tools, and concepts encountered throughout my practical studies.
+A learning repository documenting cybersecurity commands, tools, and concepts as I build my practical knowledge.
 
-### Topics Covered
-
-- Nmap fundamentals and service discovery.
+- Nmap fundamentals.
 - DNS reconnaissance tools.
 - Netcat and networking concepts.
-- Practical exercises in controlled labs.
-- Ethical penetration-testing fundamentals.
+- Practical learning notes.
+- Ethical testing in authorized environments.
 
-**Purpose:** Document my learning process and build a solid foundation in cybersecurity.
-
-<div align="left">
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/vandreysouzat-code/cyber-Journey-pentest)
-
-</div>
+[ **→ EXPLORE PROJECT** ](https://github.com/vandreysouzat-code/cyber-Journey-pentest)
 
 ---
 
-# `04 // GITHUB ACTIVITY`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vandreysouzat-code&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&include_all_commits=true" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandreysouzat-code&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" alt="Most Used Languages"/>
-
-</div>
-
----
-
-# `05 // CURRENT MISSION`
+## `04 — CURRENT MISSION`
 
 ```text
 [ IN PROGRESS ]
 
-[>] Strengthen Python programming fundamentals
-[>] Improve Linux and networking skills
-[>] Build practical cybersecurity projects
-[>] Study ethical penetration testing
-[>] Explore cloud computing and cloud security
-[>] Keep documenting my technical progress
+[+] Strengthen Python fundamentals
+[+] Practice Linux and networking
+[+] Develop useful software projects
+[+] Study ethical penetration testing
+[+] Explore cloud computing and security
+[+] Document progress and lessons learned
 ```
 
-My goal is to turn curiosity into practical skills, develop useful software, and establish a strong foundation in cybersecurity and cloud technology.
+---
 
-Every project is an opportunity to learn something new, solve a problem, and improve.
+## `05 — PRINCIPLES`
+
+> Understand the system.
+>
+> Question assumptions.
+>
+> Test responsibly.
+>
+> Learn from every result.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2"/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<br/>
+### KNOWLEDGE IS POWER.
 
-# KNOWLEDGE IS POWER.
+`LEARN CONTINUOUSLY` · `BUILD PURPOSEFULLY` · `TEST RESPONSIBLY`
 
-**Think critically. Learn continuously. Test responsibly.**
-
-<sub>BUILD IN SILENCE. IMPROVE EVERY DAY.</sub>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=vandreysouzat-code&style=flat-square&color=222222&label=PROFILE+VIEWS)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=12"/>
+<sub>One project at a time. One lesson at a time.</sub>
 
 </div>
 ```
