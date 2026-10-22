@@ -116,7 +116,7 @@ A learning repository documenting cybersecurity commands, tools, and concepts as
 
 ## `04 — CURRENT MISSION`
 
-```text
+
 [ IN PROGRESS ]
 
 [+] Strengthen Python fundamentals
