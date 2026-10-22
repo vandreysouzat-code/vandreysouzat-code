@@ -1,19 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=10"/>
+<img src="banner.png" width="100%" alt="Victor Andrey — Cybersecurity Noir Banner"/>
 
-# `VICTOR ANDREY`
+</div>
 
-### SOFTWARE DEVELOPMENT · CYBERSECURITY · RED TEAM
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=%24+accessing+the+system...;Learning+to+understand+the+system.;Knowledge+is+the+real+power.;Think+critically.+Build+silently.+Learn+continuously." alt="Terminal typing animation"/>
+**SISTEMAS · CIBERSEGURANÇA · RED TEAM**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1"/>
+*Aprender. Construir. Testar. Evoluir.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/vandreysouzat-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/vandrey/)
-![Focus](https://img.shields.io/badge/FOCUS-CYBERSECURITY-000000?style=flat-square&labelColor=000000&color=333333)
-![Status](https://img.shields.io/badge/STATUS-LEARNING-000000?style=flat-square&labelColor=000000&color=333333)
+[GitHub](https://github.com/vandreysouzat-code) · [LinkedIn](https://www.linkedin.com/in/vandrey/)
 
 </div>
 
@@ -22,26 +19,19 @@
 ## `01 // WHOAMI`
 
 ```bash
-┌──(victor㉿localhost)-[~]
-└─$ whoami
-
+victor@github:~$ whoami
 Victor Andrey
-Student of Systems Analysis and Development (ADS)
-Technology enthusiast | Cybersecurity learner
 
-└─$ cat mission.txt
-
-Understand how systems work.
-Build practical solutions.
-Study vulnerabilities and defenses.
-Develop skills in ethical hacking and cloud security.
+victor@github:~$ cat profile.txt
+Formação : Análise e Desenvolvimento de Sistemas (ADS)
+Foco     : Desenvolvimento de Software e Cibersegurança
+Estudo   : Python, Linux, Redes e Cloud Security
+Mentalidade: Aprendizado contínuo e prática responsável
 ```
 
-I'm a technology student building my knowledge through practical projects, experimentation, and continuous learning.
+Sou estudante de Análise e Desenvolvimento de Sistemas, construindo minha trajetória na tecnologia por meio de projetos práticos e aprendizado contínuo.
 
-My interests include **Python, Linux, cybersecurity, networking, ethical hacking, Red Team concepts, and cloud security**.
-
-I believe the best way to understand technology is to study how it works, test it responsibly, and learn how to make it more secure.
+Tenho interesse em cibersegurança, ethical hacking, conceitos de Red Team e segurança em nuvem. Meu objetivo é transformar conhecimento em soluções reais, compreender como os sistemas funcionam e aprender a identificar e corrigir vulnerabilidades de forma responsável.
 
 ---
 
@@ -49,122 +39,102 @@ I believe the best way to understand technology is to study how it works, test i
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-111111?style=flat-square&logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
-**Currently exploring**
+**Áreas de estudo**
 
-- Python programming and automation
-- Linux fundamentals and command-line tools
-- TCP/IP, DNS, ports, and network fundamentals
-- Ethical hacking and penetration-testing fundamentals
-- Web application security
-- Cloud computing and cloud security
-- Software development and monitoring systems
+- Programação Python e automação
+- Linux e ferramentas de linha de comando
+- TCP/IP, DNS, portas e serviços de rede
+- Fundamentos de pentest e segurança de aplicações
+- Monitoramento de disponibilidade e certificados SSL
+- Cloud computing e segurança em nuvem
 
 ---
 
 ## `03 // PROJECTS`
 
-### `[01] TCP PORT SCANNER`
+### `01.` TCP Port Scanner
 
-**Python · Networking · Security Fundamentals**
+**Python · Networking · Security**
 
-A command-line tool built to explore TCP port scanning and basic service checks.
+Ferramenta de linha de comando para estudar portas TCP e verificações básicas de serviços.
 
-- Detects open TCP ports.
-- Supports configurable ports, timeouts, and worker threads.
-- Includes basic service identification and HTTP/TLS checks.
-- Supports HTML, JSON, and CSV reports.
+- Detecção de portas TCP abertas
+- Identificação básica de serviços
+- Verificações HTTP e TLS
+- Exportação de relatórios HTML, JSON e CSV
+- Testes automatizados
 
-[ `VIEW REPOSITORY` →](https://github.com/vandreysouzat-code/tcp-port-scanner)
-
----
-
-### `[02] CLOUD SECURITY MONITOR`
-
-**Python · Flask · SQLite · Web Monitoring**
-
-A web application project focused on monitoring website availability, response times, and SSL certificate status.
-
-- Website status monitoring.
-- Response-time metrics.
-- SSL certificate monitoring.
-- Dashboard and monitoring data.
-
-[ `VIEW REPOSITORY` →](https://github.com/vandreysouzat-code/cloud-security-monitor)
+[**→ ACESSAR REPOSITÓRIO**](https://github.com/vandreysouzat-code/tcp-port-scanner)
 
 ---
 
-### `[03] CYBER JOURNEY PENTEST`
+### `02.` Cloud Security Monitor
+
+**Python · Flask · SQLite · Monitoring**
+
+Projeto web para monitoramento de disponibilidade, tempo de resposta e certificados SSL de websites.
+
+- Monitoramento de status
+- Métricas de tempo de resposta
+- Verificação de certificados SSL
+- Dashboard com informações de monitoramento
+
+[**→ ACESSAR REPOSITÓRIO**](https://github.com/vandreysouzat-code/cloud-security-monitor)
+
+---
+
+### `03.` Cyber Journey Pentest
 
 **Linux · Networking · Ethical Hacking**
 
-A learning repository documenting commands, tools, and cybersecurity concepts as I develop my practical skills.
+Repositório de estudos criado para documentar comandos, ferramentas e conceitos de cibersegurança aprendidos na prática.
 
-- Nmap fundamentals.
-- DNS reconnaissance tools.
-- Netcat and networking exercises.
-- Notes from practical learning.
+- Fundamentos de Nmap
+- Reconhecimento de DNS
+- Netcat e conceitos de rede
+- Laboratórios e anotações de estudo
 
-[ `VIEW REPOSITORY` →](https://github.com/vandreysouzat-code/cyber-Journey-pentest)
-
----
-
-## `04 // GITHUB ACTIVITY`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vandreysouzat-code&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&ring_color=FFFFFF&include_all_commits=true" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandreysouzat-code&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" alt="Most used languages"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vandreysouzat-code&bg_color=000000&color=FFFFFF&line=777777&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity"/>
-
-</div>
+[**→ ACESSAR REPOSITÓRIO**](https://github.com/vandreysouzat-code/cyber-Journey-pentest)
 
 ---
 
-## `05 // CURRENT MISSION`
+## `04 // CURRENT MISSION`
 
 ```text
-[ IN PROGRESS ]
+[ EM ANDAMENTO ]
 
-[+] Strengthen Python fundamentals
-[+] Build practical cybersecurity projects
-[+] Improve Linux and networking knowledge
-[+] Learn ethical penetration testing
-[+] Explore cloud computing and security
-[ ] Continue building a public project portfolio
+> Fortalecer os fundamentos de Python
+> Praticar Linux e redes em laboratório
+> Desenvolver projetos de cibersegurança
+> Estudar pentest de forma ética e autorizada
+> Aprofundar conhecimentos em cloud computing
+> Evoluir continuamente meu portfólio
 ```
-
-I'm still learning, and every project is an opportunity to understand something new.
-
-My goal is to turn knowledge into practical skills, create useful software, and develop a strong foundation in cybersecurity and cloud technology.
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1"/>
+### KNOWLEDGE IS POWER.
 
-### `THE SYSTEM IS ONLY AS STRONG AS OUR UNDERSTANDING OF IT.`
+*Não se trata de saber tudo. Trata-se de nunca parar de aprender.*
 
-<sub>Learn continuously. Test responsibly. Build with purpose.</sub>
+<sub>Construindo conhecimento, um projeto de cada vez.</sub>
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=vandreysouzat-code&color=000000&style=flat-square&label=PROFILE+VIEWS)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=10"/>
+![Profile Views](https://komarev.com/ghpvc/?username=vandreysouzat-code&color=222222&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 ```
