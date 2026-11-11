@@ -1,79 +1,168 @@
-# VICTOR ANDREY
+# Victor Andrey
 
-### SYSTEMS ANALYSIS AND DEVELOPMENT (ADS) · CYBERSECURITY · SOFTWARE DEVELOPMENT
+### Systems Analysis and Development (ADS) Student | Software Development
 
 <p align="left">
   <a href="https://github.com/vandreysouzat-code">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vandrey/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-064E3B?style=flat-square&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Environment-Linux-111827?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-> **Turning curiosity into knowledge, and knowledge into practical solutions.**
+> *Building ideas into solutions, one project at a time.*
 
-I'm a student of **Systems Analysis and Development (ADS)**, building my path in technology through practical projects, continuous learning and hands-on experimentation.
+I'm a **Systems Analysis and Development (ADS)** student passionate about technology, software development and problem-solving.
 
-My interests include software development, cybersecurity, ethical hacking and cloud computing. I enjoy understanding how systems work, exploring technical challenges and creating tools that turn ideas into working solutions.
+I believe the best way to learn is by creating. That's why I focus on hands-on projects, experimenting with different technologies and continuously improving my programming skills.
 
----
+My journey combines software development, automation, cloud computing and an interest in cybersecurity.
 
-## 01. PROFILE
+## About me
 
-| | |
-|:---|:---|
-| **Education** | Systems Analysis and Development (ADS) |
-| **Main language** | Python |
-| **Operating systems** | Linux · Kali Linux · Windows |
-| **Interests** | Cybersecurity · Software Development · Cloud Computing |
-| **Approach** | Learn · Build · Test · Improve |
+- Currently studying **Systems Analysis and Development (ADS)**.
+- Developing practical projects with **Python**.
+- Exploring software architecture, automation and application development.
+- Learning more about Linux, networking and cloud technologies.
+- Interested in building useful, reliable and well-structured solutions.
 
-## 02. TECHNOLOGIES
+## Technologies & Tools
 
-**Programming & Development**
+**Programming and Development**
 
-![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB)
-![Bash](https://img.shields.io/badge/Bash-1F2937?style=flat-square&logo=gnubash&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-1F2937?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-1F2937?style=flat-square&logo=sqlite&logoColor=003B57)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-**Systems & Tools**
+**Tools and Environment**
 
-![Linux](https://img.shields.io/badge/Linux-1F2937?style=flat-square&logo=linux&logoColor=FCC624)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-1F2937?style=flat-square&logo=kalilinux&logoColor=557C94)
-![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-1F2937?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-
-**Cybersecurity & Networking**
-
-![Nmap](https://img.shields.io/badge/Nmap-1F2937?style=flat-square&logo=linux&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1F2937?style=flat-square&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-1F2937?style=flat-square&logo=icloud&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-064E3B?style=flat-square&logo=hackthebox&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-## 03. FEATURED PROJECTS
+## Featured Projects
 
-Four projects representing my practical development journey.
+A selection of projects where I apply what I learn and turn ideas into practical solutions.
 
-### 01 — BLACKOUT LAB 2.0
+### 01. BLACKOUT LAB 2.0
 
-**Controlled Cybersecurity Testing Environment**
+**Modular Security Testing Platform**
 
-A modular Python-based laboratory developed for controlled security experiments, including reconnaissance, web reconnaissance, traffic testing and security analysis.
+A Python-based laboratory designed to organize and execute controlled technical experiments, combining modular architecture, reconnaissance and security testing.
 
-- Modular architecture and organized components.
-- Controlled testing environment.
-- Automated tests and structured reporting.
-- Focus on responsible security experimentation.
+- Modular project structure.
+- Organized testing components.
+- Automated test suite.
+- Structured reports and results.
 
-`PYTHON` `CYBERSECURITY` `RECONNAISSANCE` `TESTING`
+`Python` `Software Architecture` `Testing` `Cybersecurity`
 
-[**VIEW PROJECT →**](https://github.com/vandreysouzat-code/BLACKOUT-LAB/tree/refactor/
+[Explore repository →](https://github.com/vandreysouzat-code/BLACKOUT-LAB/tree/refactor/blackout-lab-2.0)
+
+---
+
+### 02. TCP Port Scanner
+
+**Network Analysis Tool**
+
+A command-line application developed in Python to scan TCP ports and perform additional HTTP and TLS checks.
+
+- Configurable scanning parameters.
+- Concurrent port scanning.
+- HTTP and TLS verification.
+- Structured report generation.
+
+`Python` `Networking` `CLI` `Automation`
+
+[Explore repository →](https://github.com/vandreysouzat-code/tcp-port-scanner)
+
+---
+
+### 03. Cloud Security Monitor
+
+**Monitoring Dashboard**
+
+A web application built with Flask to monitor website availability, response times and SSL certificate validity.
+
+- Website availability monitoring.
+- SSL certificate tracking.
+- Scheduled monitoring tasks.
+- Dashboard with SQLite integration.
+
+`Python` `Flask` `SQLite` `Cloud Computing`
+
+[Explore repository →](https://github.com/vandreysouzat-code/cloud-security-monitor)
+
+---
+
+### 04. Cyber Journey Pentest
+
+**Technical Learning Repository**
+
+A repository documenting my practical learning journey in cybersecurity, networking and reconnaissance.
+
+- Network reconnaissance.
+- DNS and WHOIS research.
+- Nmap and Netcat exercises.
+- Technical notes and command references.
+
+`Linux` `Networking` `Nmap` `Learning`
+
+[Explore repository →](https://github.com/vandreysouzat-code/cyber-Journey-pentest)
+
+---
+
+## GitHub Overview
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vandreysouzat-code&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandreysouzat-code&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</p>
+
+---
+
+## What I'm Working Towards
+
+- Strengthening my programming fundamentals.
+- Improving software design and development skills.
+- Building more complete applications.
+- Exploring automation and cloud technologies.
+- Learning through real projects and practical challenges.
+- Growing as a software developer.
+
+---
+
+## A little about my mindset
+
+```text
+Stay curious.
+Keep learning.
+Build with purpose.
+Improve every day.
+```
+
+I don't believe in having everything figured out before starting. I believe in taking action, learning from mistakes and becoming better with every project.
+
+---
+
+<p align="center">
+  <strong>Victor Andrey</strong><br/>
+  Systems Analysis and Development (ADS)<br/><br/>
+  <a href="https://github.com/vandreysouzat-code">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/vandrey/">LinkedIn</a>
+  <br/><br/>
+  <sub>Learning today. Building for tomorrow.</sub>
+</p>
