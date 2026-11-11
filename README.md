@@ -102,11 +102,20 @@ A practical cybersecurity learning repository documenting tools and techniques.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vandreysouzat-code&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandreysouzat-code&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vandreysouzat-code&theme=tokyonight" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vandreysouzat-code&theme=tokyonight" alt="GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vandreysouzat-code&theme=tokyonight" alt="Most used commit languages" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vandreysouzat-code&theme=tokyonight&utcOffset=-4" alt="GitHub productive time" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=vandreysouzat-code&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
 </p>
 
 ---
