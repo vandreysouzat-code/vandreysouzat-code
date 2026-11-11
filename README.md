@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,45:071A12,100:00A86B&height=230&section=header&text=VICTOR%20ANDREY&fontSize=52&fontColor=F0FFF8&fontAlignY=35&desc=SOFTWARE%20DEVELOPMENT%20%7C%20CYBERSECURITY&descSize=15&descAlignY=57&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,45:071A12,100:00A86B&height=230&section=header&text=VICTOR%20ANDREY&fontSize=52&fontColor=F0FFF8&fontAlignY=35&desc=SYSTEMS%20ANALYSIS%20%26%20DEVELOPMENT%20%7C%20CYBERSECURITY&descSize=13&descAlignY=57&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=35F5A1&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Victor+Andrey;%24+Systems+Analysis+%26+Development;%24+Python+%7C+Linux+%7C+Networking;%24+Exploring+Cybersecurity+%26+Cloud;%24+Learn.+Build.+Improve." alt="Terminal animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=35F5A1&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Victor+Andrey;%24+Systems+Analysis+%26+Development+Student;%24+Python+%7C+Linux+%7C+Networking;%24+Ethical+Hacking+%26+Cloud+Computing;%24+Learn.+Build.+Test.+Improve." alt="Terminal animation"/>
 
 <br/><br/>
 
@@ -20,9 +20,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/01-SOFTWARE%20DEVELOPMENT-071A12?style=flat-square&labelColor=050806&color=071A12" alt="Software Development"/>
-<img src="https://img.shields.io/badge/02-CYBERSECURITY-071A12?style=flat-square&labelColor=050806&color=071A12" alt="Cybersecurity"/>
-<img src="https://img.shields.io/badge/03-CLOUD%20COMPUTING-071A12?style=flat-square&labelColor=050806&color=071A12" alt="Cloud Computing"/>
+<img src="https://img.shields.io/badge/01-SOFTWARE%20DEVELOPMENT-071A12?style=flat-square&labelColor=050806&color=071A12"/>
+<img src="https://img.shields.io/badge/02-ETHICAL%20HACKING-071A12?style=flat-square&labelColor=050806&color=071A12"/>
+<img src="https://img.shields.io/badge/03-CLOUD%20COMPUTING-071A12?style=flat-square&labelColor=050806&color=071A12"/>
 
 </div>
 
@@ -38,20 +38,22 @@ NAME       : Victor Andrey
 EDUCATION  : Systems Analysis and Development (ADS)
 FOCUS      : Software Development
 INTERESTS  : Cybersecurity / Ethical Hacking
-EXPLORING  : Red Team / Cloud Security
+EXPLORING  : Cloud Computing / Cloud Security
 ENVIRONMENT: Python / Linux / Networking
 MINDSET    : Learn. Build. Test. Improve.
 ```
 
-I'm a Systems Analysis and Development student building my technical foundation through hands-on projects, experimentation, and continuous learning.
+I'm a Systems Analysis and Development (ADS) student building my technical foundation through hands-on projects, practical experimentation, and continuous learning.
 
-I use GitHub to document my progress, develop practical applications, and turn concepts into projects that can evolve over time.
+My journey combines software development and cybersecurity. I enjoy creating tools, exploring how systems and networks work, and turning technical knowledge into practical projects.
 
-- **Software development** — building and improving practical applications.
-- **Python** — strengthening programming and automation fundamentals.
-- **Linux and networking** — learning how systems and services operate.
-- **Cybersecurity** — exploring ethical hacking and security fundamentals.
-- **Cloud computing** — developing knowledge of cloud platforms and security.
+### Areas of interest
+
+- **Software Development** — building practical applications and improving programming skills.
+- **Python** — developing tools, automation, and software solutions.
+- **Ethical Hacking** — exploring offensive security concepts and authorized security testing.
+- **Linux & Networking** — understanding operating systems, protocols, and network services.
+- **Cloud Computing** — exploring cloud technologies and security.
 
 > Building my career one project, one lesson, and one commit at a time.
 
@@ -65,54 +67,77 @@ I use GitHub to document my progress, develop practical applications, and turn c
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PYTHON-LEARNING-071A12?style=flat-square&logo=python&logoColor=35F5A1" alt="Python"/>
-<img src="https://img.shields.io/badge/LINUX-PRACTICE-071A12?style=flat-square&logo=linux&logoColor=35F5A1" alt="Linux"/>
-<img src="https://img.shields.io/badge/NETWORKING-FOUNDATIONS-071A12?style=flat-square&logo=cisco&logoColor=35F5A1" alt="Networking"/>
-<img src="https://img.shields.io/badge/CYBERSECURITY-LEARNING-071A12?style=flat-square&logo=kalilinux&logoColor=00D9FF" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/PYTHON-LEARNING%20%26%20PROJECTS-071A12?style=flat-square&logo=python&logoColor=35F5A1"/>
+<img src="https://img.shields.io/badge/LINUX-HANDS--ON%20PRACTICE-071A12?style=flat-square&logo=linux&logoColor=35F5A1"/>
+<img src="https://img.shields.io/badge/NETWORKING-FOUNDATIONS-071A12?style=flat-square&logo=cisco&logoColor=35F5A1"/>
+<img src="https://img.shields.io/badge-CYBERSECURITY-LEARNING-071A12?style=flat-square&logo=kalilinux&logoColor=00D9FF"/>
 
 </div>
 
 ### Currently exploring
 
-`Python` · `Linux` · `TCP/IP` · `DNS` · `Nmap` · `Netcat` · `Flask` · `Git`
+`Python` · `Linux` · `TCP/IP` · `DNS` · `Nmap` · `Netcat` · `Flask` · `SQLite` · `Git` · `Cloud Computing`
 
-<sub>My experience with these technologies varies; I'm continuing to learn and practice.</sub>
+<sub>My experience with these technologies varies. I'm continuously learning and applying them through practical projects.</sub>
 
 ---
 
 ## `03 / FEATURED PROJECTS`
 
 <div align="center">
-
-<sub>SELECTED WORK · HANDS-ON LEARNING · CONTINUOUS IMPROVEMENT</sub>
-
+<sub>SELECTED WORK · HANDS-ON DEVELOPMENT · CONTINUOUS IMPROVEMENT</sub>
 </div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `01` / TCP Port Scanner
+### `01` / BLACKOUT LAB 2.0
+
+**PYTHON · ETHICAL HACKING · OFFENSIVE SECURITY**
+
+A modular security testing platform developed in Python, focused on learning offensive security concepts and performing controlled security assessments.
+
+- TCP reconnaissance
+- Web reconnaissance
+- Controlled traffic generation
+- Limited stress testing
+- Exploitation simulation
+- Campaign management and reports
+- 181 automated tests passed
+
+<a href="https://github.com/vandreysouzat-code/BLACKOUT-LAB/tree/refactor/blackout-lab-2.0">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-071A12?style=for-the-badge&logo=github&logoColor=35F5A1" alt="Explore BLACKOUT LAB"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### `02` / TCP Port Scanner
 
 **PYTHON · NETWORKING · SECURITY**
 
-A command-line tool for exploring TCP port scanning and basic service checks.
+A command-line tool developed to explore TCP port scanning and basic HTTP/TLS service checks.
 
-- Open TCP port detection
+- TCP port scanning
 - Configurable ports and timeouts
 - Basic service identification
 - HTTP and TLS checks
 - HTML, JSON, and CSV reports
 - Automated tests
 
-<a href="https://github.com/vandreysouzat-code/tcp-port-scanner"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-071A12?style=for-the-badge&logo=github&logoColor=35F5A1" alt="Explore TCP Port Scanner"/></a>
+<a href="https://github.com/vandreysouzat-code/tcp-port-scanner">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-071A12?style=for-the-badge&logo=github&logoColor=35F5A1" alt="Explore TCP Port Scanner"/>
+</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### `02` / Cloud Security Monitor
+### `03` / Cloud Security Monitor
 
-**PYTHON · FLASK · SQLITE**
+**PYTHON · FLASK · SQLITE · MONITORING**
 
 A web application focused on monitoring website availability, response times, and SSL certificates.
 
@@ -122,22 +147,9 @@ A web application focused on monitoring website availability, response times, an
 - Web dashboard
 - Monitoring data storage
 
-<a href="https://github.com/vandreysouzat-code/cloud-security-monitor"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-071A12?style=for-the-badge&logo=github&logoColor=35F5A1" alt="Explore Cloud Security Monitor"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `03` / SIDI Cloud Monitor
-
-**CLOUD · MONITORING · SOFTWARE**
-
-A portfolio repository related to cloud monitoring and software solutions.
-
-Visit the source code to explore the project's current implementation.
-
-<a href="https://github.com/vandreysouzat-code/sidi-cloud-monitor"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-071A12?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore SIDI Cloud Monitor"/></a>
+<a href="https://github.com/vandreysouzat-code/cloud-security-monitor">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-071A12?style=for-the-badge&logo=github&logoColor=35F5A1" alt="Explore Cloud Security Monitor"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -146,15 +158,18 @@ Visit the source code to explore the project's current implementation.
 
 **KALI LINUX · NETWORKING · ETHICAL HACKING**
 
-A learning journal documenting cybersecurity tools, commands, and concepts.
+A practical learning repository documenting cybersecurity tools, commands, and networking concepts.
 
 - Nmap fundamentals
 - DNS reconnaissance
+- WHOIS and DNS utilities
 - Netcat and networking
 - Practical lab exercises
 - Responsible security testing
 
-<a href="https://github.com/vandreysouzat-code/cyber-Journey-pentest"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-071A12?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore Cyber Journey Pentest"/></a>
+<a href="https://github.com/vandreysouzat-code/cyber-Journey-pentest">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-071A12?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore Cyber Journey Pentest"/>
+</a>
 
 </td>
 </tr>
@@ -183,19 +198,20 @@ A learning journal documenting cybersecurity tools, commands, and concepts.
 ```python
 mission = {
     "strengthen": [
-        "Python fundamentals",
-        "Linux and networking",
-        "Software development"
+        "Python programming",
+        "Software development fundamentals",
+        "Linux and networking"
     ],
     "explore": [
-        "Cybersecurity",
         "Ethical hacking",
+        "Cybersecurity",
+        "Cloud computing",
         "Cloud security"
     ],
     "build": [
         "Practical applications",
-        "Monitoring tools",
-        "Security projects"
+        "Security tools",
+        "Monitoring solutions"
     ],
     "principle": "Improve through practice"
 }
@@ -212,4 +228,3 @@ mission = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A86B,55:071A12,100:030507&height=120&section=footer" width="100%" alt="Dark green footer"/>
 
 </div>
-
