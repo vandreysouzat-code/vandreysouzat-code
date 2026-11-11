@@ -1,275 +1,215 @@
-<!-- ===================== HEADER ===================== -->
+# 👨🏻‍💻 Victor Andrey
 
-<div align="center">
+**`Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação`**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F172A,50:1D4ED8,100:38BDF8&text=VICTOR%20ANDREY&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=SOFTWARE%20DEVELOPMENT%20%7C%20TECHNOLOGY%20%7C%20INNOVATION&descAlignY=65&descSize=14&animation=fadeIn"/>
+Meu nome é Victor Andrey, sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por tecnologia, programação e desenvolvimento de soluções.
 
-<br/>
+Minha jornada na tecnologia é construída através de estudos, experimentação e projetos práticos. Tenho me dedicado principalmente ao Python, Linux, desenvolvimento de software, computação em nuvem e segurança da informação.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Systems+Analysis+and+Development+Student;Python+Developer+in+Progress;Building+Projects+and+Learning+Every+Day;Turning+Ideas+Into+Solutions" />
+Gosto de aprender colocando a mão na massa, criando ferramentas, explorando novas tecnologias e transformando conhecimentos em projetos reais. Aqui no GitHub compartilho um pouco dessa evolução e tudo aquilo que venho desenvolvendo ao longo do caminho.
+
+<p align="left">
+    <a href="https://github.com/vandreysouzat-code?tab=followers">
+        <img
+            alt="Seguidores"
+            title="Seguidores no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/vandreysouzat-code?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/vandreysouzat-code?tab=repositories&sort=stargazers">
+        <img
+            alt="Estrelas"
+            title="Estrelas dos repositórios"
+            src="https://custom-icon-badges.demolab.com/github/stars/vandreysouzat-code?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/vandrey/">
+        <img
+            alt="LinkedIn"
+            title="Meu LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+**Linguagem de programação**
+
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
 
 <br/><br/>
 
-<a href="https://github.com/vandreysouzat-code">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/vandrey/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Desenvolvimento e ferramentas**
 
-</div>
-
----
-
-<!-- ===================== ABOUT ===================== -->
-
-<h2 align="center">✦ ABOUT ME</h2>
-
-<div align="center">
-
-### Hello! I'm Victor Andrey 👋
-
-**Systems Analysis and Development (ADS) Student**
-
-I'm passionate about technology, software development and building practical solutions.
-
-My learning journey is driven by curiosity, hands-on experience and the desire to transform ideas into real projects.
-
-I enjoy exploring new technologies, solving problems and continuously improving my development skills.
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Education
-
-- Systems Analysis and Development (ADS)
-- Continuous technical learning
-- Practical project development
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Main Interests
-
-- Software Development
-- Python Programming
-- Cloud Computing
-- Automation
-- Cybersecurity
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-<h2 align="center">✦ TECHNOLOGIES & TOOLS</h2>
-
-<div align="center">
-
-### Programming & Development
-
-<img src="https://skillicons.dev/icons?i=python,flask,sqlite,bash&theme=dark" />
+<img
+    align="left"
+    alt="Flask"
+    title="Flask"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+/>
+<img
+    align="left"
+    alt="SQLite"
+    title="SQLite"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+/>
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+    align="left"
+    alt="GitHub"
+    title="GitHub"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+<img
+    align="left"
+    alt="VS Code"
+    title="Visual Studio Code"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
 
 <br/><br/>
 
-### Tools & Environment
+**Sistemas e ambientes**
 
-<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,docker&theme=dark" />
-
-</div>
-
----
-
-<!-- ===================== PROJECTS ===================== -->
-
-<h2 align="center">✦ FEATURED PROJECTS</h2>
-
-<p align="center">
-A selection of projects built through practical learning and development.
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">01 · BLACKOUT LAB 2.0</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MODULAR-2563EB?style=flat-square"/>
-</p>
-
-A modular Python laboratory for controlled technical experiments, reconnaissance, security testing and structured reporting.
-
-**Highlights**
-- Modular architecture
-- Reconnaissance modules
-- Controlled testing
-- Automated test suite
-
-<p align="center">
-<a href="https://github.com/vandreysouzat-code/BLACKOUT-LAB/tree/refactor/blackout-lab-2.0">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">02 · TCP PORT SCANNER</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NETWORKING-0EA5E9?style=flat-square"/>
-</p>
-
-A Python command-line tool for TCP port scanning and additional HTTP/TLS verification.
-
-**Highlights**
-- Configurable port scanning
-- Concurrent execution
-- HTTP and TLS checks
-- Structured reports
-
-<p align="center">
-<a href="https://github.com/vandreysouzat-code/tcp-port-scanner">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">03 · CLOUD SECURITY MONITOR</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FLASK-333333?style=flat-square&logo=flask&logoColor=white"/>
-</p>
-
-A web application designed to monitor website availability, response times and SSL certificate validity.
-
-**Highlights**
-- Website monitoring
-- SSL certificate tracking
-- Scheduled checks
-- Dashboard with SQLite
-
-<p align="center">
-<a href="https://github.com/vandreysouzat-code/cloud-security-monitor">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">04 · CYBER JOURNEY PENTEST</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/LEARNING-0EA5E9?style=flat-square"/>
-</p>
-
-A practical repository documenting cybersecurity studies, reconnaissance tools and penetration testing fundamentals.
-
-**Highlights**
-- Nmap and Netcat
-- DNS enumeration
-- WHOIS research
-- Practical notes and exercises
-
-<p align="center">
-<a href="https://github.com/vandreysouzat-code/cyber-Journey-pentest">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ===================== STATISTICS ===================== -->
-
-<h2 align="center">✦ GITHUB ANALYTICS</h2>
-
-<div align="center">
-
-<a href="https://github.com/vandreysouzat-code">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vandreysouzat-code&show_icons=true&hide_border=true&theme=github_dark&title_color=38BDF8&icon_color=38BDF8"/>
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vandreysouzat-code&show_icons=true&hide_border=true&theme=default&title_color=2563EB"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vandreysouzat-code&show_icons=true&hide_border=true&theme=default"/>
-</picture>
-</a>
-
-<a href="https://github.com/vandreysouzat-code">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vandreysouzat-code&layout=compact&hide_border=true&theme=github_dark&title_color=38BDF8"/>
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vandreysouzat-code&layout=compact&hide_border=true&theme=default&title_color=2563EB"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandreysouzat-code&layout=compact&hide_border=true&theme=default"/>
-</picture>
-</a>
+<img
+    align="left"
+    alt="Linux"
+    title="Linux"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+<img
+    align="left"
+    alt="Bash"
+    title="Bash"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+/>
+<img
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vandreysouzat-code&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true"/>
+---
 
-</div>
+### 🚀 Projetos em Destaque
+
+**BLACKOUT LAB 2.0**
+
+Laboratório modular desenvolvido em Python para experimentos controlados de segurança, reconhecimento, testes técnicos e análise.
+
+- Arquitetura modular.
+- Módulos de reconhecimento e testes.
+- Testes automatizados.
+- Geração de relatórios.
+
+[![BLACKOUT LAB](https://img.shields.io/badge/Conhecer%20projeto-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vandreysouzat-code/BLACKOUT-LAB/tree/refactor/blackout-lab-2.0)
+
+**TCP PORT SCANNER**
+
+Ferramenta de linha de comando desenvolvida em Python para reconhecimento de portas TCP e verificações HTTP/TLS.
+
+- Varredura configurável de portas.
+- Execução concorrente.
+- Verificações HTTP e TLS.
+- Geração de relatórios.
+
+[![TCP Scanner](https://img.shields.io/badge/Conhecer%20projeto-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vandreysouzat-code/tcp-port-scanner)
+
+**CLOUD SECURITY MONITOR**
+
+Aplicação desenvolvida com Flask para monitoramento de disponibilidade de sites, tempo de resposta e validade de certificados SSL.
+
+- Monitoramento de websites.
+- Acompanhamento de certificados SSL.
+- Verificações agendadas.
+- Dashboard integrado ao SQLite.
+
+[![Cloud Security Monitor](https://img.shields.io/badge/Conhecer%20projeto-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vandreysouzat-code/cloud-security-monitor)
+
+**CYBER JOURNEY PENTEST**
+
+Repositório de estudos práticos sobre segurança da informação, reconhecimento e ferramentas utilizadas em testes de segurança.
+
+- Nmap e Netcat.
+- WHOIS e DNS.
+- Reconhecimento de redes.
+- Anotações e exercícios práticos.
+
+[![Cyber Journey](https://img.shields.io/badge/Conhecer%20projeto-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vandreysouzat-code/cyber-Journey-pentest)
 
 ---
 
-<!-- ===================== CURRENT FOCUS ===================== -->
+### 📊 Estatísticas do GitHub
 
-<h2 align="center">✦ CURRENT FOCUS</h2>
+<p>
+    <img
+        align="left"
+        alt="Estatísticas do GitHub"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=vandreysouzat-code&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
 
-<div align="center">
+    <img
+        align="left"
+        alt="Linguagens mais utilizadas"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandreysouzat-code&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+    />
+</p>
 
-| Area | Direction |
-|:---:|:---|
-| 💻 Software Development | Improving programming and application development |
-| 🐍 Python | Building practical tools and projects |
-| ☁️ Cloud Computing | Exploring cloud platforms and monitoring |
-| 🐧 Linux | Improving system knowledge and command-line skills |
-| 📚 Learning | Expanding technical knowledge through practice |
-
-</div>
+<br clear="both"/>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
+### 🌱 Atualmente aprendendo e desenvolvendo
 
-<div align="center">
+- Aprimorando meus conhecimentos em Python.
+- Evoluindo em desenvolvimento de software.
+- Explorando computação em nuvem.
+- Estudando Linux e redes.
+- Desenvolvendo projetos práticos para meu portfólio.
+- Aprofundando meus conhecimentos em segurança da informação.
 
-### THANK YOU FOR VISITING!
+---
 
-**Learn continuously. Build consistently. Evolve every day.**
-
-<br/>
-
-<a href="https://github.com/vandreysouzat-code">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vandrey/">
-<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,50:1D4ED8,100:38BDF8"/>
-
-</div>
-```
+<p align="center">
+    <strong>Construindo conhecimento, desenvolvendo projetos e evoluindo todos os dias.</strong>
+    <br/><br/>
+    <a href="https://github.com/vandreysouzat-code">GitHub</a>
+    &nbsp; • &nbsp;
+    <a href="https://www.linkedin.com/in/vandrey/">LinkedIn</a>
+</p>
