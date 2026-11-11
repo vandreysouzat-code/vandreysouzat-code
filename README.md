@@ -1,248 +1,186 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  VICTOR ANDREY // SYSTEMS ANALYSIS & DEVELOPMENT              -->
-<!--  "I don't break things. I understand them better than you."  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+```markdown
+<!-- ========================================================= -->
+<!-- VICTOR ANDREY | PREMIUM CYBER PROFILE                     -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=twinkling&color=0:000000,40:0a1f1a,70:00ff88,100:000000&height=280&section=header&text=VICTOR%20ANDREY&fontSize=58&fontColor=00ff88&fontAlignY=30&desc=%5B%20SYSTEMS%20ANALYSIS%20%26%20DEVELOPMENT%20%5D%20%7C%20%5B%20CYBERSECURITY%20%5D%20%7C%20%5B%20CLOUD%20%5D&descSize=14&descAlignY=55&animation=fadeIn&reversal=true" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020604,35:003B2B,70:006B4F,100:00F5A0&text=VICTOR%20ANDREY&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=SYSTEMS%20ANALYSIS%20%26%20DEVELOPMENT%20%7C%20CYBERSECURITY%20%7C%20CLOUD&descAlignY=58&descSize=13&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=600&color=00ff88&center=true&vCenter=true&width=720&lines=root%40victor%3A~%23%20whoami%0AVictor%20Andrey%20%7C%20Systems%20Analysis%20%26%20Dev%0APython%20%C2%B7%20Linux%20%C2%B7%20Networking%20%C2%B7%20Cloud%0AEthical%20Hacking%20%C2%B7%20Offensive%20Security%0A%23%20Learn.%20Build.%20Break.%20Fix.%20Repeat." alt="Terminal"/>
-
-<br/><br/>
-
 <a href="https://github.com/vandreysouzat-code">
-  <img src="https://img.shields.io/badge/GITHUB-00ff88?style=for-the-badge&logo=github&logoColor=000000&labelColor=0a1f1a" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-vandreysouzat--code-0D1117?style=for-the-badge&logo=github&logoColor=00F5A0"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/vandrey/">
-  <img src="https://img.shields.io/badge/LINKEDIN-00ff88?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0a1f1a" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5A0"/>
 </a>
-&nbsp;
-<img src="https://img.shields.io/badge/%E2%9A%A0_ACTIVE%20THREAT%20HUNTER-00ff88?style=for-the-badge&labelColor=0a1f1a" alt="Status"/>
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  01 // WHOAMI                                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+**BUILD. SECURE. INNOVATE.**
 
-### `01 // WHOAMI`
-
-┌─────────────────────────────────────────────────────────────┐
-│ IDENTITY CONFIRMED │
-├─────────────────────────────────────────────────────────────┤
-│ │
-│ CALLSIGN : Victor Andrey │
-│ CLASS : Systems Analysis & Development │
-│ SPECIALTY : Software Development + Offensive Security │
-│ TOOLKIT : Python / Linux / TCP-IP / Nmap / Docker │
-│ CURRENT : Cloud Security / Ethical Hacking │
-│ STATUS : [██████████░░] 80% — Always loading │
-│ PHILOSOPHY : "If you can't test it, you don't own it." │
-│ │
-└─────────────────────────────────────────────────────────────┘
-
-
-> **I build tools, break systems (legally), and document everything.**
-> Every commit is a lesson. Every bug is a feature I haven't explained yet.
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  02 // ARMORY                                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### `02 // ARMORY`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,sqlite,linux,git,github,docker,vscode,nmap,nginx&theme=dark" alt="Tech Stack"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PYTHON-%E2%9A%A0%20PRIMARY%20WEAPON-00ff88?style=flat-square&logo=python&logoColor=000000&labelColor=0a1f1a"/>
-<img src="https://img.shields.io/badge/LINUX-%E2%9A%A0%20HOME%20TURF-00ff88?style=flat-square&logo=linux&logoColor=000000&labelColor=0a1f1a"/>
-<img src="https://img.shields.io/badge/NETWORKING-%E2%9A%A0%20SPEAKS%20FLUENT%20TCP%2FIP-00ff88?style=flat-square&logo=cisco&logoColor=000000&labelColor=0a1f1a"/>
-<img src="https://img.shields.io/badge/ETHICAL%20HACKING-%E2%9A%A0%20AUTHORIZED%20BREAKER-00ff88?style=flat-square&logo=kalilinux&logoColor=000000&labelColor=0a1f1a"/>
-<img src="https://img.shields.io/badge/CLOUD-%E2%9A%A0%20UNDER%20INVESTIGATION-00ff88?style=flat-square&logo=aws&logoColor=000000&labelColor=0a1f1a"/>
-
-<br/><br/>
-
-<sub>🔬 Currently deep-diving: <code>Python</code> · <code>Flask</code> · <code>SQLite</code> · <code>Docker</code> · <code>Netcat</code> · <code>Nmap</code> · <code>DNS</code> · <code>Cloud Security</code></sub>
+*Transforming curiosity into knowledge and knowledge into practical solutions.*
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  03 // PROJECTS                                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## `01 / ABOUT ME`
 
-### `03 // PROJECTS`
+```python
+class VictorAndrey:
+    def __init__(self):
+        self.education = "Systems Analysis and Development (ADS)"
+        self.focus = [
+            "Software Development",
+            "Cybersecurity",
+            "Ethical Hacking",
+            "Cloud Computing"
+        ]
+        self.languages = ["Python", "Bash"]
+        self.environment = ["Linux", "Kali Linux", "Windows"]
+        self.mindset = "Always learning. Always building."
+
+    def mission(self):
+        return "Build practical solutions and keep improving."
+```
+
+I'm a Systems Analysis and Development (ADS) student passionate about technology, programming and cybersecurity.
+
+I enjoy building practical projects, experimenting with security tools, understanding how systems work and continuously developing my technical skills.
+
+My goal is to turn knowledge into useful solutions through hands-on experience, discipline and continuous learning.
+
+---
+
+## `02 / TECH STACK`
 
 <div align="center">
-<sub>⚡ SELECTED OPERATIONS · HANDS-ON · PROVEN</sub>
+
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,flask,sqlite&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-00F5A0?style=flat-square&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-00F5A0?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kali_Linux-00F5A0?style=flat-square&logo=kalilinux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cybersecurity-00F5A0?style=flat-square&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cloud_Computing-00F5A0?style=flat-square&logo=icloud&logoColor=black"/>
+
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-#### `01` // ⚡ BLACKOUT LAB 2.0
+## `03 / FEATURED PROJECTS`
 
-`PYTHON` · `OFFENSIVE SECURITY` · `MODULAR`
+<div align="center">
 
-> **A modular offensive security platform. 181 tests. Zero mercy.**
-
-┌─ Capabilities ─────────────────────────┐
-│ ✓ TCP Reconnaissance │
-│ ✓ Web Recon & Fingerprinting │
-│ ✓ Controlled Traffic Generation │
-│ ✓ Stress Testing (limited) │
-│ ✓ Exploitation Simulation │
-│ ✓ Campaign Management & Reporting │
-│ ✓ 181/181 Automated Tests Passed │
-└────────────────────────────────────────┘
-
+### ◈ BLACKOUT LAB 2.0
+**Controlled Cybersecurity Testing Environment**
 
 <a href="https://github.com/vandreysouzat-code/BLACKOUT-LAB/tree/refactor/blackout-lab-2.0">
-  <img src="https://img.shields.io/badge/▸_RUN_PROJECT-00ff88?style=for-the-badge&labelColor=0a1f1a"/>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=vandreysouzat-code&repo=BLACKOUT-LAB&theme=transparent&hide_border=true&title_color=00F5A0&text_color=C9D1D9&icon_color=00F5A0"/>
 </a>
 
-</td>
-<td width="50%" valign="top">
+A modular Python-based security testing laboratory designed for controlled experiments, reconnaissance, web reconnaissance, traffic testing and security analysis.
 
-#### `02` // 🌐 TCP PORT SCANNER
+`Python` `Security Testing` `Reconnaissance` `Modular Architecture`
 
-`PYTHON` · `NETWORKING` · `RECON`
+<br/>
 
-> **Know what's open. Know what's listening. Know what's vulnerable.**
-
-┌─ Capabilities ─────────────────────────┐
-│ ✓ TCP Port Scanning │
-│ ✓ Configurable Ports & Timeouts │
-│ ✓ Service Identification │
-│ ✓ HTTP / TLS Checks │
-│ ✓ HTML / JSON / CSV Reports │
-│ ✓ Full Test Suite │
-└────────────────────────────────────────┘
-
+### ◈ TCP PORT SCANNER
+**Network Reconnaissance Tool**
 
 <a href="https://github.com/vandreysouzat-code/tcp-port-scanner">
-  <img src="https://img.shields.io/badge/▸_RUN_PROJECT-00ff88?style=for-the-badge&labelColor=0a1f1a"/>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=vandreysouzat-code&repo=tcp-port-scanner&theme=transparent&hide_border=true&title_color=00F5A0&text_color=C9D1D9&icon_color=00F5A0"/>
 </a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A Python CLI tool for TCP port scanning, configurable scan parameters, HTTP/TLS checks and structured report generation.
 
-#### `03` // ☁️ CLOUD SECURITY MONITOR
+`Python` `TCP/IP` `Networking` `HTTP/TLS`
 
-`PYTHON` · `FLASK` · `SQLITE` · `MONITORING`
+<br/>
 
-> **If it's not monitored, it's not secure. Period.**
-
-┌─ Capabilities ─────────────────────────┐
-│ ✓ Website Availability Monitoring │
-│ ✓ Response-Time Metrics │
-│ ✓ SSL Certificate Expiry Checks │
-│ ✓ Real-time Web Dashboard │
-│ ✓ Persistent Monitoring Data │
-└────────────────────────────────────────┘
-
+### ◈ CLOUD SECURITY MONITOR
+**Website and SSL Monitoring Dashboard**
 
 <a href="https://github.com/vandreysouzat-code/cloud-security-monitor">
-  <img src="https://img.shields.io/badge/▸_RUN_PROJECT-00ff88?style=for-the-badge&labelColor=0a1f1a"/>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=vandreysouzat-code&repo=cloud-security-monitor&theme=transparent&hide_border=true&title_color=00F5A0&text_color=C9D1D9&icon_color=00F5A0"/>
 </a>
 
-</td>
-<td width="50%" valign="top">
+A Flask-based monitoring application that tracks website availability, response times and SSL certificate status through a dashboard.
 
-#### `04` // 🔓 CYBER JOURNEY PENTEST
+`Python` `Flask` `SQLite` `Cloud Monitoring`
 
-`KALI LINUX` · `NETWORKING` · `ETHICAL HACKING`
+<br/>
 
-> **Every command documented. Every lab completed. Every concept understood.**
-
-┌─ Capabilities ─────────────────────────┐
-│ ✓ Nmap Fundamentals & Advanced │
-│ ✓ DNS Recon & WHOIS │
-│ ✓ Netcat & Network Exploitation │
-│ ✓ Practical Lab Exercises │
-│ ✓ Responsible Security Testing │
-└────────────────────────────────────────┘
-
+### ◈ CYBER JOURNEY PENTEST
+**Cybersecurity Learning Repository**
 
 <a href="https://github.com/vandreysouzat-code/cyber-Journey-pentest">
-  <img src="https://img.shields.io/badge/▸_RUN_PROJECT-00ff88?style=for-the-badge&labelColor=0a1f1a"/>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=vandreysouzat-code&repo=cyber-Journey-pentest&theme=transparent&hide_border=true&title_color=00F5A0&text_color=C9D1D9&icon_color=00F5A0"/>
 </a>
 
-</td>
-</tr>
-</table>
+A practical learning repository documenting cybersecurity tools, commands and techniques for reconnaissance and penetration testing studies.
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  04 // INTEL                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### `04 // INTEL`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vandreysouzat-code&show_icons=true&hide_border=true&bg_color=030705&title_color=00ff88&icon_color=00ff88&text_color=D6E5DE&rank_icon=github&hide=stars" alt="Stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandreysouzat-code&layout=compact&langs_count=6&hide_border=true&bg_color=030705&title_color=00ff88&text_color=D6E5DE" alt="Languages"/>
-
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vandreysouzat-code&bg_color=030705&color=00ff88&line=00ff88&point=FFFFFF&area=true&hide_border=true&area_color=0a1f1a" alt="Activity"/>
+`Kali Linux` `Nmap` `Netcat` `DNS` `Pentesting`
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  05 // MISSION                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## `04 / GITHUB ANALYTICS`
 
-### `05 // MISSION`
+<div align="center">
 
-class Mission:
-    """Victor Andrey — Operating System"""
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vandreysouzat-code&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F5A0&icon_color=00F5A0&text_color=C9D1D9&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandreysouzat-code&layout=compact&hide_border=true&bg_color=00000000&title_color=00F5A0&text_color=C9D1D9"/>
 
-    def __init__(self):
-        self.core = "Python"
-        self.os = "Linux"
-        self.network = "TCP/IP"
-        self.offense = "Ethical Hacking"
-        self.cloud = "Under Investigation"
+<br/>
 
-    def daily_loop(self):
-        while True:
-            self.learn()
-            self.build()
-            self.break_()
-            self.fix()
-            self.document()
-            self.repeat()
+<img width="70%" src="https://streak-stats.demolab.com?user=vandreysouzat-code&theme=dark&hide_border=true&background=00000000&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=C9D1D9&dates=888888"/>
 
-    def philosophy(self):
-        return "If it can be tested, it can be improved."
+<br/>
 
-    def status(self):
-        return "ALWAYS LOADING. NEVER DONE."
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vandreysouzat-code&bg_color=00000000&color=00F5A0&line=00F5A0&point=FFFFFF&area=true&hide_border=true"/>
 
->>> Mission().status()
-'ALWAYS LOADING. NEVER DONE.'
+</div>
 
-LEARN → BUILD → BREAK → FIX → REPEAT
-Curiosity is the entry point. Consistency is the exploit.
+---
 
+## `05 / CURRENT MISSION`
 
-victor@andrey:~$ echo "End of file. No errors found."
+- [x] Build practical Python projects.
+- [x] Develop tools for cybersecurity studies.
+- [ ] Improve software development skills.
+- [ ] Deepen knowledge of ethical hacking.
+- [ ] Explore cloud security and computing.
+- [ ] Build increasingly useful and secure solutions.
+
+---
+
+<div align="center">
+
+### `LEARN → BUILD → TEST → DOCUMENT → REPEAT`
+
+*One project. One lesson. One step forward.*
+
+<br/>
+
+<a href="https://github.com/vandreysouzat-code">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-00F5A0?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vandrey/">
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5A0"/>
+</a>
+
+<br/><br/>
+
+**ALWAYS LEARNING. ALWAYS IMPROVING.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,45:006B4F,100:020604&height=100&section=footer"/>
+
+</div>
+```
