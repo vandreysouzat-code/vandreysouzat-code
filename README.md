@@ -1,168 +1,143 @@
 # Victor Andrey
 
-### Systems Analysis and Development (ADS) Student | Software Development
+<p align="left">
+  <strong>Systems Analysis and Development (ADS)</strong><br/>
+  Software Development · Python · Cloud Computing
+</p>
 
 <p align="left">
   <a href="https://github.com/vandreysouzat-code">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vandrey/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-> *Building ideas into solutions, one project at a time.*
+### Hello, welcome to my profile!
 
-I'm a **Systems Analysis and Development (ADS)** student passionate about technology, software development and problem-solving.
+I'm Victor Andrey, a Systems Analysis and Development (ADS) student interested in software development, technology and problem-solving.
 
-I believe the best way to learn is by creating. That's why I focus on hands-on projects, experimenting with different technologies and continuously improving my programming skills.
+I enjoy learning by building real projects, exploring new tools and turning ideas into practical solutions.
 
-My journey combines software development, automation, cloud computing and an interest in cybersecurity.
-
-## About me
-
-- Currently studying **Systems Analysis and Development (ADS)**.
-- Developing practical projects with **Python**.
-- Exploring software architecture, automation and application development.
-- Learning more about Linux, networking and cloud technologies.
-- Interested in building useful, reliable and well-structured solutions.
-
-## Technologies & Tools
-
-**Programming and Development**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-**Tools and Environment**
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+Currently focused on Python, software development, Linux, networking and cloud computing.
 
 ---
 
-## Featured Projects
+### About me
 
-A selection of projects where I apply what I learn and turn ideas into practical solutions.
-
-### 01. BLACKOUT LAB 2.0
-
-**Modular Security Testing Platform**
-
-A Python-based laboratory designed to organize and execute controlled technical experiments, combining modular architecture, reconnaissance and security testing.
-
-- Modular project structure.
-- Organized testing components.
-- Automated test suite.
-- Structured reports and results.
-
-`Python` `Software Architecture` `Testing` `Cybersecurity`
-
-[Explore repository →](https://github.com/vandreysouzat-code/BLACKOUT-LAB/tree/refactor/blackout-lab-2.0)
+- 🎓 Studying Systems Analysis and Development (ADS).
+- 💻 Building practical projects with Python.
+- ☁️ Exploring cloud computing and application monitoring.
+- 🧩 Interested in software architecture, automation and problem-solving.
+- 📚 Always learning and improving through hands-on experience.
 
 ---
 
-### 02. TCP Port Scanner
-
-**Network Analysis Tool**
-
-A command-line application developed in Python to scan TCP ports and perform additional HTTP and TLS checks.
-
-- Configurable scanning parameters.
-- Concurrent port scanning.
-- HTTP and TLS verification.
-- Structured report generation.
-
-`Python` `Networking` `CLI` `Automation`
-
-[Explore repository →](https://github.com/vandreysouzat-code/tcp-port-scanner)
-
----
-
-### 03. Cloud Security Monitor
-
-**Monitoring Dashboard**
-
-A web application built with Flask to monitor website availability, response times and SSL certificate validity.
-
-- Website availability monitoring.
-- SSL certificate tracking.
-- Scheduled monitoring tasks.
-- Dashboard with SQLite integration.
-
-`Python` `Flask` `SQLite` `Cloud Computing`
-
-[Explore repository →](https://github.com/vandreysouzat-code/cloud-security-monitor)
-
----
-
-### 04. Cyber Journey Pentest
-
-**Technical Learning Repository**
-
-A repository documenting my practical learning journey in cybersecurity, networking and reconnaissance.
-
-- Network reconnaissance.
-- DNS and WHOIS research.
-- Nmap and Netcat exercises.
-- Technical notes and command references.
-
-`Linux` `Networking` `Nmap` `Learning`
-
-[Explore repository →](https://github.com/vandreysouzat-code/cyber-Journey-pentest)
-
----
-
-## GitHub Overview
+### Technologies & Tools
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vandreysouzat-code&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandreysouzat-code&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,linux,bash,git,github,vscode,docker&theme=light" />
 </p>
 
 ---
 
-## What I'm Working Towards
+### Featured Projects
 
-- Strengthening my programming fundamentals.
-- Improving software design and development skills.
-- Building more complete applications.
-- Exploring automation and cloud technologies.
-- Learning through real projects and practical challenges.
-- Growing as a software developer.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### BLACKOUT LAB 2.0
+
+A modular Python laboratory for controlled security experiments, reconnaissance and technical testing.
+
+**Technologies:** Python · Testing · Modular Architecture
+
+[View repository →](https://github.com/vandreysouzat-code/BLACKOUT-LAB/tree/refactor/blackout-lab-2.0)
+
+</td>
+<td width="50%" valign="top">
+
+#### TCP Port Scanner
+
+A Python command-line tool for TCP port scanning, HTTP/TLS checks and structured reports.
+
+**Technologies:** Python · TCP/IP · Networking
+
+[View repository →](https://github.com/vandreysouzat-code/tcp-port-scanner)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### Cloud Security Monitor
+
+A Flask application for monitoring website availability, response times and SSL certificates.
+
+**Technologies:** Python · Flask · SQLite
+
+[View repository →](https://github.com/vandreysouzat-code/cloud-security-monitor)
+
+</td>
+<td width="50%" valign="top">
+
+#### Cyber Journey Pentest
+
+A practical learning repository documenting cybersecurity tools, reconnaissance and technical exercises.
+
+**Technologies:** Kali Linux · Nmap · DNS · Netcat
+
+[View repository →](https://github.com/vandreysouzat-code/cyber-Journey-pentest)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## A little about my mindset
+### GitHub Statistics
 
-```text
-Stay curious.
-Keep learning.
-Build with purpose.
-Improve every day.
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vandreysouzat-code&show_icons=true&hide_border=true&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vandreysouzat-code&show_icons=true&hide_border=true&theme=default"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=vandreysouzat-code&show_icons=true&hide_border=true&theme=default"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vandreysouzat-code&layout=compact&hide_border=true&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vandreysouzat-code&layout=compact&hide_border=true&theme=default"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandreysouzat-code&layout=compact&hide_border=true&theme=default"/>
+  </picture>
+</p>
 
-I don't believe in having everything figured out before starting. I believe in taking action, learning from mistakes and becoming better with every project.
+---
+
+### Contribution Game
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vandreysouzat-code/vandreysouzat-code/output/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vandreysouzat-code/vandreysouzat-code/output/pacman-contribution-graph.svg"/>
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/vandreysouzat-code/vandreysouzat-code/output/pacman-contribution-graph.svg"/>
+  </picture>
+</p>
+
+---
+
+### Currently Working On
+
+- Improving my Python and software development skills.
+- Building useful and well-structured applications.
+- Exploring cloud technologies.
+- Learning through practical projects.
 
 ---
 
 <p align="center">
-  <strong>Victor Andrey</strong><br/>
-  Systems Analysis and Development (ADS)<br/><br/>
-  <a href="https://github.com/vandreysouzat-code">GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/vandrey/">LinkedIn</a>
-  <br/><br/>
-  <sub>Learning today. Building for tomorrow.</sub>
+  <strong>Learn · Build · Improve</strong><br/>
+  <sub>Every project is another step forward.</sub>
 </p>
